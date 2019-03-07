@@ -33,7 +33,7 @@ class HomeIndex extends React.Component {
                                 <h3>(i) Systems</h3>
                                 <p>Major functions including the rules we follow, tools we use, and field we work.</p>
                             </header>
-                            <Link to="/systems" className="link primary"></Link>
+                            <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
