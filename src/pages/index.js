@@ -16,12 +16,13 @@ class HomeIndex extends React.Component {
 
         return (
             <Layout>
-                <Helmet>
+                <Helmet
                     title="Atrispina development"
                     meta={[
                         { name: 'description', content: 'DevOps, plant power.' },
                         { name: 'keywords', content: 'DevOps, Cloud, Google Cloud Platform, Netlify, React' },
                     ]}
+                    >
                 </Helmet>
 
                 <Banner />
