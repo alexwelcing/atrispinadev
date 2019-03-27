@@ -8,7 +8,7 @@ const BannerLanding = (props) => (
             </header>
             <div className="content">
                 <p><br />
-                    We can imagine an infinite number of scenarios for a sustainable society – and ‘backcasting from scenarios’ can be thought of as a jigsaw puzzle, in which we have a shared picture of where we want to go, and we put the pieces together to get there. However, getting large groups of people to agree on a desired future scenario is often all but impossible. <br />
+                    We can imagine an infinite number of scenarios for a sustainable society. Backcasting from scenarios can be thought of as a jigsaw puzzle, in which we have a shared picture of where we want to go, and we put the pieces together to get there. However, getting large groups of people to agree on a desired future scenario is often all but impossible. <br />
                     Further, scenarios that are too specific may limit innovation, and distract our minds from the innovative, creative solutions necessary for sustainable development.</p>
             </div>
         </div>
