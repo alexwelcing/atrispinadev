@@ -4,11 +4,12 @@ const BannerLanding = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
-                <h1>Landing</h1>
+                <h1>Strategy</h1>
             </header>
             <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
+                <p><br />
+                    We can imagine an infinite number of scenarios for a sustainable society – and ‘backcasting from scenarios’ can be thought of as a jigsaw puzzle, in which we have a shared picture of where we want to go, and we put the pieces together to get there. However, getting large groups of people to agree on a desired future scenario is often all but impossible. <br />
+                    Further, scenarios that are too specific may limit innovation, and distract our minds from the innovative, creative solutions necessary for sustainable development.</p>
             </div>
         </div>
     </section>
