@@ -10,7 +10,7 @@ import pic10 from '../assets/images/pic10.jpg'
 const Elements = (props) => (
     <Layout>
         <Helmet>
-            <title>Elements - Forty by HTML5 UP</title>
+            <title>Practical Innovation</title>
             <meta name="description" content="Elements Page" />
         </Helmet>
 
@@ -22,8 +22,8 @@ const Elements = (props) => (
                         <h1>Elements</h1>
                     </header>
 
-                    <h2 id="content">Sample Content</h2>
-                    <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+                    <h2 id="content">Benefit from the cutting edge sooner</h2>
+                    <p>Number one cost of technical debt = falling behind so you do not benefit from modern trends and instead have to pay additional fees to support legacy systems.</p>
                     <div className="grid-wrapper">
                         <div className="col-6">
                             <h3>Sem turpis amet semper</h3>
