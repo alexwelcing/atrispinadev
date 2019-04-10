@@ -48,7 +48,7 @@ class HomeIndex extends React.Component {
                                 <h3>(iii) Strategy</h3>
                                 <p>Principles that guide step by step progress towards success.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/insights" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">

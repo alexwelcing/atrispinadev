@@ -5,6 +5,6 @@ yarn-error.log
 package-lock.json
 yarn.lock
 
-# Build directory
+# n directory
 /public
 .DS_Store
