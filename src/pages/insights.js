@@ -53,6 +53,17 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Compensation</h3>
                             </header>
+                            <div className="grid-wrapper">
+                                <div className="col-4">
+                                    <p>Content Here</p>
+                                </div>
+                                <div className="col-4">
+                                    <p>Content Here</p>
+                                </div>
+                                <div className="col-4">
+                                    <p>Content Here</p>
+                                </div>
+                            </div>
                             <p>Keep up with market rates and align with professional development growth. In order to retain top talent in large markets, look at the roles and responsibilities of those on the team and compare against similar positions in that city.</p>
                             <ul className="actions">
                                 <li><a href="https://www.builtinnyc.com/salaries" className="button">Learn more about NYC Technology.</a></li>
