@@ -60,11 +60,6 @@ const Landing = (props) => (
                         </div>
                     </div>
                 </section>
-                <section>
-                    <Link to="/generic" className="image">
-                        <img src={pic10} alt="" />
-                    </Link>
-                </section>
             </section>
         </div>
 
