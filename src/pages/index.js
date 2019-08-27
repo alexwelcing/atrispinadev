@@ -19,7 +19,7 @@ class HomeIndex extends React.Component {
                 <Helmet
                     title="Atrispina development"
                     meta={[
-                        { name: 'description', content: 'DevOps, plant power.' },
+                        { name: 'Cloud', content: 'DevOps' },
                         { name: 'keywords', content: 'DevOps, Cloud, Google Cloud Platform, Netlify, React' },
                     ]}
                     >
